@@ -1,0 +1,5 @@
+streamlit
+cohere
+pandas
+numpy
+scikit-learn
